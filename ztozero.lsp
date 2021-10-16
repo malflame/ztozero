@@ -1,5 +1,5 @@
 (defun c:ZToZero (/)
-  (setq ss (ssget "_X" (list (cons 0 "POINT"))))
+  (setq ss (ssget "_X" (list (cons 0 "POINT")))) ; search all objects "POINT" in scene
   (setq i 0)
   (while (< i (sslength ss))
     (progn
