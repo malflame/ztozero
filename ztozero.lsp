@@ -1,3 +1,4 @@
+; Установка Z координаты всех точек сцены в 0
 ; This script help to set Z-coordinate of object "POINT" to 0 (zero)
 ; Finding all Points in scene
 ; Michael M 2021
