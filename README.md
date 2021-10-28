@@ -6,7 +6,8 @@ how use:
 - add file in your "Autocad" with commant "APPLOAD"
 - then use command "ZTOZERO" to run script
 
-Русский
+
+по-русски
 
 Установка координаты Z для всех точек сцены равной 0
 
